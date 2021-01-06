@@ -8,7 +8,7 @@ I created component to display the contacts. I also used BrowserRouter to keep t
 |------------|------------|
 | ![Homepage](img/homepage.png) _List of Contacts_ | ![create new contact](img/createNewContact.png) _creating New Contact_ |
 | ![displayAddedContact](img/displayAddedContact.png) _Displaying All Contact_| ![searchForContact](img/searchForContact.png) _Searching for contacts_ |
-|  _*Watch 30 seconds Demostration of the Application* *=>*_ | [video](img/contactAppVideo.web,) _Demo_ |
+|  *Watch 30 seconds Demostration of the Application* *=>* | [VIDEO DEMOSTRATION OF THE APPLICATION](img/contactAppVideo.webm) _Demo_ |
 
 
 ## Project Setup
