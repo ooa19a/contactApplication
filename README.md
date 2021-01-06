@@ -1,8 +1,15 @@
-# Contacts Project
+# Contact App
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+This project is about Creating, Reading, and Deleting contacts. This app was completed using Reactjs. Some API calls were done to the backend to retrive and store the contact. 
 
-Most of the commits in this repository correspond to videos in the program.
+I created component to display the contacts. I also used BrowserRouter to keep track of the URL.
+
+| **Screenshots**  | **Screenshots Contd**|
+|------------|------------|
+| ![Homepage](img/homepage.png) _List of Contacts_ | ![create new contact](img/createNewContact.png) _creating New Contact_ |
+| ![displayAddedContact](img/displayAddedContact.png) _Displaying All Contact_| ![searchForContact](img/searchForContact.png) _Searching for contacts_ |
+|  _Watch 30 seconds Demostration of the Application *=>*_ | ![video](img/contactAppVideo.web,) _Demo_ |
+
 
 ## Project Setup
 
