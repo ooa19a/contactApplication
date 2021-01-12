@@ -79,9 +79,9 @@ createContact = (contact) => {
         <Route path = '/create' render={({history})=>(
          <CreateContact 
          onCreateContact = {(contact)=>{
-           this.localcreateContact(contact)
+         this.createContact(contact)
           history.push('/')
-          }} /> 
+          }}/> 
         )}
        />
       </div>
